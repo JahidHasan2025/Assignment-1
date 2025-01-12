@@ -205,3 +205,100 @@ header button {
   }
   /* The vision of future end */
 
+  /* Dr. Muhammad yunus section start */
+.Muhammd-Yunus{
+    padding: 48px 24px;
+    border-radius: 16px;
+    border: 1px solid rgba(14, 14, 14, 0.15);
+    background: rgb(255, 255, 255);
+    margin: 32px 0 80px 0;
+}
+.Muhammd-Yunus .Dr.Muhammd-Yunus-first{
+    color: rgba(14, 14, 14, 0.8);
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    margin: -45px 0 12px 0;
+}
+.Muhammd-Yunus h3{
+  color: rgba(14, 14, 14, 0.8);
+  font-size: 20px;
+  font-weight: 600;
+  padding-bottom: 4px;
+}
+.Muhammd-Yunus p{
+    color: rgba(14, 14, 14, 0.8);
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;  
+}
+/* Dr. Muhammad Yunus section end */
+/* recent news section start */
+.recent-news{
+    padding: 80px 0; 
+}
+.recent-news h2{
+    color: rgb(14, 14, 14);
+    font-size: 40px;
+    font-weight: 700;
+    padding-bottom: 24px;
+  }
+  .recent-news p {
+    color: rgba(14, 14, 14, 0.7);
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    padding-bottom: 32px;
+  }
+  .bangladesh-launches-new-satellite{
+    display: flex;
+    justify-content: space-between;
+    border-radius: 24px;
+    padding: 48px;
+    background: rgb(255, 255, 255);
+    margin-bottom: 24px;
+    gap: 32px;
+  } 
+  .bangladesh-launches-new-satellite .satelite {
+    border-radius: 24px;
+  }
+  .bangladesh-launches-new-satellite h2 {
+    color: rgba(14, 14, 14, 0.7);
+    font-size: 32px;
+    font-weight: 700;
+    padding-bottom: 12px;
+  }
+  .bangladesh-launches-new-satellite .al-jazeera {
+    padding-bottom: 12px;
+  }
+  .bangladesh-launches-new-satellite h5 {
+    color: rgba(14, 14, 14, 0.7);
+    font-size: 16px;
+    font-weight: 400;
+    padding-bottom: 12px;
+  }
+  .bangladesh-launches-new-satellite h6 {
+    color: rgba(14, 14, 14, 0.7);
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    padding-bottom: 32px;
+  }
+  
+  .read-more {
+    color: white;
+    font-size: 16px;
+    font-weight: 600;
+    background: #006a50;
+    width: 16%;
+    padding: 11px 20px;
+    border-radius: 8px;
+    border: none;
+  }
+  
+  .read-more:hover {
+    color: white;
+    background: black;
+    transition: all 0.5s;
+  }
+/* recent news section end */
