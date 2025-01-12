@@ -74,8 +74,7 @@ header button {
 
 /* Pillars of "Bangladesh 2.0" start hear */
 .pillars-of-bangladesh {
-    margin-top: 80px;
-    margin-bottom: 80px;
+    margin-top: 80px 0;
 }
 
 .pillars-of-bangladesh h2 {
@@ -106,22 +105,103 @@ header button {
     color: rgba(14, 14, 14, 0.7);
 }
 
-/* Pillars of "The vision of Bangladesh" start hear */
+/* "The vision of Bangladesh" start here */
 
-.pillars-of-bangladesh {
-    margin-top: 80px;
-    margin-bottom: 80px;
+.The-vision-of-future{
+    margin-top: 80px 0 32px 0;
+    gap: 24px;
 }
 
-.pillars-of-bangladesh h2 {
-    font-size: 48px;
+.The-vision-of-future h2{
+  color: var(--h1FontColor);
+  font-size: 48px;
+  font-weight: 700;
+  padding-bottom: 24px;
+}
+.The-vision-of-future p{
+    color: var(--h1FontColor);
+    font-size: 16px;
+    font-weight: 400;
+    padding-bottom: 32px;
+    line-height: 24px;  
+}
+.The-vision-of-future .card2-p{
+    margin-bottom: 28px;
+}
+.The-vision-of-future .cards{
+    display: flex;
+    justify-content: space-around;
+}
+.The-vision-of-future .card{
+    width: 410.67;
+    border-radius: 16px;
+    padding: 32px;
+}
+.The-vision-of-future .card1 {
+    background: rgba(84, 144, 245, 0.2); 
+}
+.The-vision-of-future .card1:hover{
+    background: rgba(24, 89, 203, 0.2);
+}
+.The-vision-of-future .card2{
+    background: var(--MintFrost);
+}
+.The-vision-of-future .card2:hover{
+    background: #a2d5be;
+}
+.The-vision-of-future .card3{
+    background: var(--WarmVanilla);
+}
+.The-vision-of-future .card3:hover{
+    background: #efe5c4;
+}
+.The-vision-of-future h4{
+    color: var(--h1FontColor);
+    font-size: 20px;
     font-weight: 700;
-    color: var(--text-dark);
-}
-
-.pillars-card {
-    padding: 24px;
+    padding: 25px 0 12px 0;
+  }
+  .learn-more{
+    color: white;
+    font-size: 16px;
+    font-weight: 600;
+    background: var(--SkylineBlue);
+    padding: 11px 20px;
+    border-radius: 8px;
+    border: none;
+  }
+  .learn-more:hover {
+    color: var(--SkylineBlue);
     background: white;
-    border-radius: 8px;}
+    transition: all.5s;
+  }  
+  .learn-more {
+    color: white;
+    font-size: 16px;
+    font-weight: 600;
+    background: var(--Green);
+    padding: 11px 20px;
+    border-radius: 8px;
+    border: none;
+  }
+  .learn-more:hover {
+    color: var(--Green);
+    background: white;
+    transition: all.5s;
+  }
+  .learn-more {
+    color: white;
+    font-size: 16px;
+    font-weight: 600;
+    background: var(--GoldenSun);
+    padding: 11px 20px;
+    border-radius: 8px;
+    border: none;
+  }
+  .learn_more3:hover {
+    color: var(--GoldenSun);
+    background: white;
+    transition: all.5s;
+  }
+  /* The vision of future end */
 
-    
