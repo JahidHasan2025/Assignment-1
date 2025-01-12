@@ -101,3 +101,27 @@ header button {
     font-size: 16px;
     color: var(--text-dark-3);
 }
+
+.Recent-news {
+    color: rgba(14, 14, 14, 0.7);
+}
+
+/* Pillars of "The vision of Bangladesh" start hear */
+
+.pillars-of-bangladesh {
+    margin-top: 80px;
+    margin-bottom: 80px;
+}
+
+.pillars-of-bangladesh h2 {
+    font-size: 48px;
+    font-weight: 700;
+    color: var(--text-dark);
+}
+
+.pillars-card {
+    padding: 24px;
+    background: white;
+    border-radius: 8px;}
+
+    
